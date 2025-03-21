@@ -1,2 +1,2 @@
 # python-basics
-Pythonda asosiy tushunchalar va kodlar
+Pythonda asosiy tushunchalar 
